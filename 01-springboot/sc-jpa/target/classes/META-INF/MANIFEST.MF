@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: sc-jpa
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: cn.tedu
+Build-Jdk: 1.7.0_72
+Built-By: tony
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://maven.apache.org
+

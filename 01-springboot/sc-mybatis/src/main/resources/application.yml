@@ -1,0 +1,13 @@
+server:
+  port: 8070
+
+spring:
+    datasource:
+        driver-class-name: com.mysql.jdbc.Driver
+        url: jdbc:mysql://127.0.0.1:3306/mybatisdb
+        username: root
+        password: root
+
+mybatis:
+  typeAliasesPackage: cn.tedu.model
+  mapperLocations: classpath:mappers/*.xml
